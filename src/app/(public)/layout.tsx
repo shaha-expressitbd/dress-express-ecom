@@ -113,7 +113,7 @@ export default function PublicLayout({
       <div className="block lg:hidden">
         <div className="fixed md:right-4 right-1 bottom-40 transform -translate-y-1/2 flex flex-col gap-2 z-50">
           <Link
-            href="https://wa.me/+8801886088529
+            href="https://wa.me/+8801643039756
 "
             target="_blank"
             rel="noopener noreferrer"
@@ -123,7 +123,7 @@ export default function PublicLayout({
             <FaWhatsapp className="h-6 w-6 text-white" />
           </Link>
           <Link
-            href="https://www.facebook.com/messages/t/1002263763137861"
+            href="https://www.facebook.com/messages/t/319941317859566"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-600 to-blue-800 p-1.5 rounded-full shadow-xl hover:shadow-2xl hover:scale-110 transition-all duration-300 ease-in-out"

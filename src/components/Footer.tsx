@@ -57,7 +57,7 @@ const footerLinks = [
 ];
 
 const socialLinks = [
-  { icon: FaFacebookF, href: 'https://www.facebook.com/dressexpressgrl4u', color: '#1877F2' },
+  { icon: FaFacebookF, href: 'https://www.facebook.com/dressexpressbn', color: '#1877F2' },
   { icon: FaInstagram, href: '#', color: '#E4405F' },
   { icon: IoLogoTiktok, href: '#', color: '#000' }
 ];
