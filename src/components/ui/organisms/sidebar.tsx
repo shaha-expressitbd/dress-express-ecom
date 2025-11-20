@@ -141,7 +141,8 @@ export default function Sidebar() {
       {/* ---------- header ---------- */}
       <div className="flex items-center justify-between px-4 py-4 border-b border-gray-700">
         <Link href="/" onClick={!isDesktop ? close : undefined}>
-          <Logo />
+          {/* <Logo /> */}
+          Dress Express
         </Link>
         {!isDesktop && (
           <button onClick={close} className="text-2xl focus:outline-none">
