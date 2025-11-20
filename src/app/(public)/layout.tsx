@@ -90,7 +90,7 @@ export default function PublicLayout({
       <div className="hidden lg:block" >
         <div className=" fixed md:right-4 right-1 md:bottom-16 transform -translate-y-1/2 flex flex-col gap-2 z-50">
           <Link
-            href="https://wa.me/+8801721665758
+            href="https://wa.me/+8801886088529
 "
             target="_blank"
             rel="noopener noreferrer"
@@ -113,7 +113,7 @@ export default function PublicLayout({
       <div className="block lg:hidden">
         <div className="fixed md:right-4 right-1 bottom-40 transform -translate-y-1/2 flex flex-col gap-2 z-50">
           <Link
-            href="https://wa.me/+8801721665758
+            href="https://wa.me/+8801886088529
 "
             target="_blank"
             rel="noopener noreferrer"

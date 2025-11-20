@@ -14,7 +14,7 @@ const StoreFinder = () => {
             name: "Dress Express Store",
             address: "Font Side, 2nd Floor, Shadin Bangla Super Market, Mirpur-1, (Opposite of KFC or Sony CINEPLEX)",
             city: "Dhaka, Bangladesh",
-            phone: "+8801721665758",
+            phone: "+8801886088529",
             rating: 4.8,
             latitude: 23.80045285116627,
             longitude: 90.35547202966696,

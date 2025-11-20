@@ -172,12 +172,12 @@ const Footer = memo(() => {
             </h4>
             <div className="space-y-3">
               <motion.a
-                href="tel:01721665758"
+                href="tel:01886088529"
                 className="flex items-center space-x-3 text-gray-700 dark:text-gray-300 hover:text-blue-600 transition-colors"
                 whileHover={{ x: 4 }}
               >
                 <FaPhone className="text-blue-500" />
-                <span className="font-medium">01721665758</span>
+                <span className="font-medium">01886088529</span>
               </motion.a>
               <motion.div
                 className="flex items-start space-x-3 text-gray-700 dark:text-gray-300"
