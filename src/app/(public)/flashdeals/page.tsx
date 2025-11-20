@@ -16,10 +16,10 @@ export const revalidate = 0; // Disable cache
 
 export async function generateMetadata() {
     return {
-        title: 'Flash Deals | Azmain Fashion',
+        title: 'Flash Deals | Dress Express',
         description: 'Enjoy limited-time flash deals on discount products.',
         openGraph: {
-            title: 'Flash Deals | Azmain Fashion',
+            title: 'Flash Deals | Dress Express',
             description: 'Enjoy limited-time flash deals on discount products.',
             url: '/flash-deals',
             type: 'website',

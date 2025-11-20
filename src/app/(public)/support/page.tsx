@@ -560,7 +560,7 @@ const SupportPage = () => {
                         <header className="text-center">
                             <h2 className="text-3xl font-bold text-gray-800 dark:text-gray-100 mb-4">System Status</h2>
                             <p className="text-gray-600 dark:text-gray-400">
-                                Current operational status of all Azmain Fashion services.
+                                Current operational status of all Dress Express services.
                             </p>
                         </header>
 

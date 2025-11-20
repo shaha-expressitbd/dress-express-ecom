@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions | Azmain Fashion",
+  title: "Terms & Conditions | Dress Express",
   description: "Please read these terms carefully before using our website.",
 };
 
@@ -53,7 +53,7 @@ export default function TermsPage() {
             </div>
             <div className="p-6">
               <p className="text-gray-700 leading-relaxed">
-                By accessing or using Azmain Fashion website you agree to be bound by these Terms & Conditions and all applicable laws. If you do not agree with any part of these terms, you must discontinue use of our website immediately.
+                By accessing or using Dress Express website you agree to be bound by these Terms & Conditions and all applicable laws. If you do not agree with any part of these terms, you must discontinue use of our website immediately.
               </p>
             </div>
           </section>
@@ -180,7 +180,7 @@ export default function TermsPage() {
             </div>
             <div className="p-6">
               <p className="text-gray-700 leading-relaxed mb-4">
-                All content on this site is the property of Azmain Fashion or its licensors and is protected under Bangladeshi copyright laws.
+                All content on this site is the property of Dress Express or its licensors and is protected under Bangladeshi copyright laws.
               </p>
               <div className="bg-red-50 rounded-lg p-4 border-l-4 border-red-500">
                 <h3 className="font-semibold text-red-800 mb-2">Protected Content Includes:</h3>

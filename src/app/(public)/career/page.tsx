@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'Careers | Azmain Fashion',
+    title: 'Careers | Dress Express',
     description:
         'Join our team and build the future of e-commerce in Bangladesh. Explore exciting career opportunities.',
 };

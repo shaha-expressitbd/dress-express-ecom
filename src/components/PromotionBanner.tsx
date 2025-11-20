@@ -70,7 +70,7 @@ export default function PromotionBanner() {
         {/* Static text */}
         <div className="max-w-lg text-center md:text-left md:ml-16 md:pl-8">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-2 z-20">
-            Discover Azmain Fashion Products
+            Discover Dress Express Products
           </h2>
           <p className="text-base md:text-lg text-gray-100 z-20">
             Limited stock available. Grab yours before they’re gone!

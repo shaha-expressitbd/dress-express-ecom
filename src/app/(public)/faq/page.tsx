@@ -153,7 +153,7 @@ const FAQPage = () => {
                         Frequently Asked Questions
                     </h1>
                     <p className="text-base md:text-xl text-red-100 max-w-3xl mx-auto">
-                        Find answers to common questions about Azmain Fashion’s products, services,
+                        Find answers to common questions about Dress Express’s products, services,
                         and policies.
                     </p>
                 </div>

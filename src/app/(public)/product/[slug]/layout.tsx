@@ -4,10 +4,10 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Product Details - Azmain Fashion",
+  title: "Product Details - Dress Express",
   description: "View detailed product information",
   openGraph: {
-    title: "Product Details - Azmain Fashion",
+    title: "Product Details - Dress Express",
     description: "View detailed product information",
     type: "website",
     images: [{ url: "/fallback-image.jpg" }],

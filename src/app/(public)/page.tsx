@@ -21,10 +21,10 @@ type SearchParams = {
 
 export async function generateMetadata() {
   return {
-    title: "Azmain Fashionbd - Best Online Shopping Platform",
+    title: "Dress Expressbd - Best Online Shopping Platform",
     description: "Discover amazing deals and shop for your favorite products on Grilgirlbd.",
     openGraph: {
-      title: "Azmain Fashionbd - Best Online Shopping Platform",
+      title: "Dress Expressbd - Best Online Shopping Platform",
       description: "Discover amazing deals and shop for your favorite products on Grilgirlbd.",
       url: "/",
       type: "website",

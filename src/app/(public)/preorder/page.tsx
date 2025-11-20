@@ -17,10 +17,10 @@ type SearchParams = {
 
 export async function generateMetadata() {
     return {
-        title: 'Pre-Order Products - Azmain Fashionbd',
+        title: 'Pre-Order Products - Dress Expressbd',
         description: 'Discover and pre-order the latest products on Grilgirlbd.',
         openGraph: {
-            title: 'Pre-Order Products - Azmain Fashionbd',
+            title: 'Pre-Order Products - Dress Expressbd',
             description: 'Discover and pre-order the latest products on Grilgirlbd.',
             url: '/preorder',
             type: 'website',

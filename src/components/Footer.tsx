@@ -105,7 +105,7 @@ const Footer = memo(() => {
           <motion.div variants={fadeInUp} className="space-y-6">
             <Link href="/" className="inline-block">
               <motion.div whileHover={{ scale: 1.05 }}>
-                <Logo />
+                {/* <Logo /> */}
               </motion.div>
             </Link>
 
@@ -184,9 +184,8 @@ const Footer = memo(() => {
               >
                 <FaMapMarkerAlt className="text-red-500 mt-1 flex-shrink-0" />
                 <span className="text-sm">
-                  Azmain Fashion, 2nd Floor, Shadin Bangla Super Market, Mirpur-1
-                  <br />
-                  (Opposite KFC/Sony CINEPLEX)
+                  Dress Express, green shoronika shopping mall, Dhaka, Bangladesh
+
                 </span>
               </motion.div>
             </div>
@@ -202,7 +201,7 @@ const Footer = memo(() => {
           viewport={{ once: true }}
         >
           <p className="flex items-center gap-2">
-            © {new Date().getFullYear()} Azmain Fashion. All rights reserved.
+            © {new Date().getFullYear()} Dress Express. All rights reserved.
             <motion.span
               className="text-red-500"
               animate={{ scale: [1, 1.1, 1] }}

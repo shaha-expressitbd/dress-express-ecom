@@ -11,7 +11,7 @@ const StoreFinder = () => {
     const stores = [
         {
             id: 1,
-            name: "Azmain Fashion Store",
+            name: "Dress Express Store",
             address: "Font Side, 2nd Floor, Shadin Bangla Super Market, Mirpur-1, (Opposite of KFC or Sony CINEPLEX)",
             city: "Dhaka, Bangladesh",
             phone: "+8801721665758",

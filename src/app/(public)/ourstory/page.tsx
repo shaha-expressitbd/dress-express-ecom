@@ -31,7 +31,7 @@ const OurStoryPage = () => {
                         Our Story
                     </h1>
                     <p className="text-lg sm:text-xl md:text-2xl mb-8 opacity-90 max-w-3xl mx-auto">
-                        Discover how Azmain Fashion became your trusted partner in online
+                        Discover how Dress Express became your trusted partner in online
                         shopping
                     </p>
                     <div className="w-24 h-1 bg-red-300 mx-auto rounded-full" />
@@ -46,7 +46,7 @@ const OurStoryPage = () => {
                             From Vision to Reality
                         </h2>
                         <p className="text-gray-700 dark:text-gray-300 text-base sm:text-lg mb-6 leading-relaxed">
-                            Azmain Fashion was born from a simple yet powerful vision: to create
+                            Dress Express was born from a simple yet powerful vision: to create
                             an online marketplace where quality meets affordability, and every
                             customer feels valued. What started as a dream in a small office
                             has grown into a thriving e-commerce platform serving thousands of
@@ -233,7 +233,7 @@ const OurStoryPage = () => {
                     </p>
                     <div className="bg-red-50 dark:bg-gray-900 p-8 rounded-xl border-l-4 border-red-500 dark:border-red-600">
                         <p className="text-lg sm:text-xl font-semibold text-red-800 dark:text-red-400">
-                            &quot;At Azmain Fashion, we don&apos;t just sell products—we create
+                            &quot;At Dress Express, we don&apos;t just sell products—we create
                             experiences, build relationships, and make online shopping a
                             joy.&quot;
                         </p>
@@ -248,7 +248,7 @@ const OurStoryPage = () => {
                         Be Part of Our Story
                     </h2>
                     <p className="text-lg sm:text-xl mb-8 opacity-90">
-                        Join thousands of satisfied customers who trust Azmain Fashion for their
+                        Join thousands of satisfied customers who trust Dress Express for their
                         online shopping needs.
                     </p>
                     <button onClick={handleShopNow} className="bg-white text-red-600 px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-base sm:text-lg hover:bg-red-50 dark:hover:bg-red-700 transition-colors duration-300 shadow-lg">

@@ -62,7 +62,7 @@ export default function RefundPolicyPage() {
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-red-500 to-pink-500 text-white rounded-full hover:from-red-600 hover:to-pink-600 transition-all duration-300 transform hover:scale-105 shadow-lg"
             >
               <RiMicAiLine className="w-5 h-5 mr-2" />
-              support@Azmain Fashion.com
+              support@Dress Express.com
             </a>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">

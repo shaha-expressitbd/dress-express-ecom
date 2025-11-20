@@ -140,7 +140,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p className="text-sm md:text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            Learn how Azmain Fashion collects, uses, shares, and protects your data with complete transparency.
+            Learn how Dress Express collects, uses, shares, and protects your data with complete transparency.
           </p>
         </div>
 
