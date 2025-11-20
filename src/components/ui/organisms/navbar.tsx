@@ -111,6 +111,7 @@ export const Navbar = ({ className }: { className?: string }) => {
           <div className="flex justify-center">
             <Link href="/" className="transition-transform duration-200 hover:scale-110">
               {/* <Logo /> */}
+              Dress Express
             </Link>
           </div>
 
