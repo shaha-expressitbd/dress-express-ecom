@@ -106,6 +106,7 @@ const Footer = memo(() => {
             <Link href="/" className="inline-block">
               <motion.div whileHover={{ scale: 1.05 }}>
                 {/* <Logo /> */}
+                Dress Express
               </motion.div>
             </Link>
 

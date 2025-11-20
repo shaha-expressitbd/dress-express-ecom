@@ -66,7 +66,8 @@ export const Navbar = ({ className }: { className?: string }) => {
           <div className="flex items-center gap-3">
             {!isDesktop && <SidebarToggler />}
             <Link href="/" className="transition-transform duration-200 hover:scale-105">
-              <Logo />
+              {/* <Logo /> */}
+              Dress Express
             </Link>
           </div>
 
